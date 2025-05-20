@@ -1,0 +1,13 @@
+{"collidables":
+{
+"dirt.png": [0, 0, 25, 25],
+"dirt top.png": [0, 0, 25, 25],
+"dirt top right.png": [0, 0, 25, 25],
+"dirt top left.png": [0, 0, 25, 25],
+"dirt top pole.png": [0, 0, 25, 25],
+"trunk.png": [0, 0, 25, 25],
+"trunk right.png": [0, 0, 25, 25],
+"trunk left.png": [0, 0, 25, 25],
+"stone.png": [0, 0, 25, 25]
+}
+}
